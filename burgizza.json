@@ -3,88 +3,100 @@
         {
             "id": 0,
             "name": "Hamburg",
-            "image": "https://imgur.com/QbJicGf",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": "https://i.imgur.com/QbJicGf.jpg",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
             "stars": 5,
+            "price": 20,
             "best": true
         },
         {
             "id": 1,
             "name": "Fergburger New Zealand",
-            "image": "https://imgur.com/DlIIRrh",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": "https://i.imgur.com/DlIIRrh.jpg",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
             "stars": 3.5,
+            "price": 25,
             "best": false
         },
         {
             "id": 2,
             "name": "Heart Attack Grill",
-            "image": "https://imgur.com/I8n30kq",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": "https://imgur.com/I8n30kq.jpg",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
             "stars": 4,
+            "price": 40,
             "best": true
         },
         {
             "id": 3,
             "name": "Husk Cheeseburger",
-            "image": "https://imgur.com/r8fERO5",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": "https://imgur.com/r8fERO5.jpg",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
             "stars": 4.5,
+            "price": 35,
             "best": true
         },
         {
             "id": 4,
             "name": "Red Mill Burger",
-            "image": "https://imgur.com/pvoCmuI",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": "https://imgur.com/pvoCmuI.jpg",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
             "stars": 3,
+            "price": 50,
             "best": false
         },
         {
             "id": 5,
             "name": "Royal Eatery",
-            "image": "https://imgur.com/0UhRTBt",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-            "stars": 4.5
+            "image": "https://imgur.com/0UhRTBt.jpg",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "stars": 4.5,
+            "price": 20,
+            "best": true
         },
         {
             "id": 6,
             "name": "Sidetrack",
-            "image": "https://imgur.com/kSMASxO",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": "https://imgur.com/kSMASxO.jpg",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
             "stars": 4,
+            "price": 32,
             "best": true
         },
         {
             "id": 7,
             "name": "The Brave Burger Greece",
-            "image": "https://imgur.com/jz9MYV4",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": "https://imgur.com/jz9MYV4.jpg",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
             "stars": 5,
+            "price": 55,
             "best": true
         },
         {
             "id": 8,
             "name": "The Great Burger",
-            "image": "https://imgur.com/jmakVdt",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": "https://imgur.com/jmakVdt.jpg",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
             "stars": 3,
+            "price": 24,
             "best": false
         },
         {
             "id": 9,
             "name": "Classic Beef Burger",
-            "image": "https://imgur.com/aBiLuj2",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": "https://imgur.com/aBiLuj2.jpg",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
             "stars": 3.5,
+            "price": 29,
             "best": false
         },
         {
             "id": 10,
             "name": "Super Hamburg",
-            "image": "https://imgur.com/QbJicGf",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": "https://imgur.com/QbJicGf.jpg",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
             "stars": 5,
+            "price": 34,
             "best": true
         }
     ],
@@ -92,81 +104,91 @@
         {
             "id": 11,
             "name": "Vegetarian",
-            "image": "https://imgur.com/7uCFCdG",
+            "image": "https://imgur.com/7uCFCdG.jpg",
             "ingredients": "Green Pepper, Mozzarella Cheese, Mushroom, Olive, Onion, Pizza Sauce, Tomato",
             "stars": 5,
+            "price": 25,
             "best": true
         },
         {
             "id": 12,
             "name": "Chicken Supreme",
-            "image": "https://imgur.com/stsAEKM",
+            "image": "https://imgur.com/stsAEKM.jpg",
             "ingredients": "Chicken, Green Pepper, Mozzarella Cheese, Mushroom, Olive, Onion, Pizza Sauce, Tomato",
             "stars": 3,
+            "price": 44,
             "best": false
         },
         {
             "id": 13,
             "name": "Classic Pepperoni",
-            "image": "https://imgur.com/BNAHe7g",
+            "image": "https://imgur.com/BNAHe7g.jpg",
             "ingredients": "Mozzarella Cheese, Mushroom, Olive, Pepperoni, Pizza Sauce",
             "stars": 4,
+            "price": 55,
             "best": true
         },
         {
             "id": 14,
             "name": "Margherita",
-            "image": "https://imgur.com/2lqOUBR",
+            "image": "https://imgur.com/2lqOUBR.jpg",
             "ingredients": "Mozzarella Cheese, Pizza Sauce",
             "stars": 4.5,
+            "price": 28,
             "best": true
         },
         {
             "id": 15,
             "name": "Cheese Lovers",
-            "image": "https://imgur.com/e3At7QJ",
+            "image": "https://imgur.com/e3At7QJ.jpg",
             "ingredients": "Mozzarella Cheese, Pizza Sauce",
             "stars": 3.5,
+            "price": 70,
             "best": false
         },
         {
             "id": 16,
             "name": "Spicy Chicken Ranch",
-            "image": "https://imgur.com/lK5yuWR",
+            "image": "https://imgur.com/lK5yuWR.jpg",
             "ingredients": "Chicken, Garlic, Green Pepper, Mozzarella Cheese, Mushroom, Pizza Sauce, Tomato",
             "stars": 5,
+            "price": 28,
             "best": true
         },
         {
             "id": 17,
             "name": "Sea Food Lovers",
-            "image": "https://imgur.com/stsAEKM",
+            "image": "https://imgur.com/stsAEKM.jpg",
             "ingredients": "Calamari, Garlic, Mozzarella Cheese, Pizza Sauce, Prawn",
             "stars": 4,
+            "price": 46,
             "best": true
         },
         {
             "id": 18,
             "name": "Prawn",
-            "image": "https://imgur.com/5BJEyxW",
+            "image": "https://imgur.com/5BJEyxW.jpg",
             "ingredients": "Garlic, Green Pepper, Mozzarella Cheese, Olive, Pizza Sauce, Prawn",
             "stars": 4.5,
+            "price": 38,
             "best": false
         },
         {
             "id": 19,
             "name": "Super Supreme",
-            "image": "https://imgur.com/32uCOJR",
+            "image": "https://imgur.com/32uCOJR.jpg",
             "ingredients": "Green Pepper, Mozzarella Cheese, Mushroom, Olive, Onion, Pepperoni, Pizza Sauce, Pure Beef",
             "stars": 3,
+            "price": 60,
             "best": false
         },
         {
             "id": 20,
             "name": "Dynamite Chicken Ranch",
-            "image": "https://imgur.com/kcaCEfc",
+            "image": "https://imgur.com/kcaCEfc.jpg",
             "ingredients": "Chicken, Garlic, Green Pepper, Mozzarella Cheese, Mushroom, Pizza Sauce, Tomato",
             "stars": 4.5,
+            "price": 50,
             "best": true
         }
     ]
