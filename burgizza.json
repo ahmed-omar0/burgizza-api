@@ -4,7 +4,7 @@
             "id": 0,
             "name": "Hamburg",
             "image": "https://i.imgur.com/QbJicGf.jpg",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
             "stars": 5,
             "price": 20,
             "best": true
@@ -13,7 +13,7 @@
             "id": 1,
             "name": "Fergburger New Zealand",
             "image": "https://i.imgur.com/DlIIRrh.jpg",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
             "stars": 3.5,
             "price": 25,
             "best": false
@@ -22,7 +22,7 @@
             "id": 2,
             "name": "Heart Attack Grill",
             "image": "https://imgur.com/I8n30kq.jpg",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
             "stars": 4,
             "price": 40,
             "best": true
@@ -31,7 +31,7 @@
             "id": 3,
             "name": "Husk Cheeseburger",
             "image": "https://imgur.com/r8fERO5.jpg",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
             "stars": 4.5,
             "price": 35,
             "best": true
@@ -40,7 +40,7 @@
             "id": 4,
             "name": "Red Mill Burger",
             "image": "https://imgur.com/pvoCmuI.jpg",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
             "stars": 3,
             "price": 50,
             "best": false
@@ -49,7 +49,7 @@
             "id": 5,
             "name": "Royal Eatery",
             "image": "https://imgur.com/0UhRTBt.jpg",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
             "stars": 4.5,
             "price": 20,
             "best": true
@@ -58,7 +58,7 @@
             "id": 6,
             "name": "Sidetrack",
             "image": "https://imgur.com/kSMASxO.jpg",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
             "stars": 4,
             "price": 32,
             "best": true
@@ -67,7 +67,7 @@
             "id": 7,
             "name": "The Brave Burger Greece",
             "image": "https://imgur.com/jz9MYV4.jpg",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
             "stars": 5,
             "price": 55,
             "best": true
@@ -76,7 +76,7 @@
             "id": 8,
             "name": "The Great Burger",
             "image": "https://imgur.com/jmakVdt.jpg",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
             "stars": 3,
             "price": 24,
             "best": false
@@ -85,7 +85,7 @@
             "id": 9,
             "name": "Classic Beef Burger",
             "image": "https://imgur.com/aBiLuj2.jpg",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
             "stars": 3.5,
             "price": 29,
             "best": false
@@ -94,7 +94,7 @@
             "id": 10,
             "name": "Super Hamburg",
             "image": "https://imgur.com/QbJicGf.jpg",
-            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
             "stars": 5,
             "price": 34,
             "best": true
